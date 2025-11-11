@@ -181,6 +181,7 @@
 
     .gallery {
         padding-left: 20px;
+        min-width: 10px;
     }
 }
 
